@@ -1,0 +1,9 @@
+## Copy this file to your home directory:
+##    cp .screenrc ~/
+
+## If you don't like screen's default of C-a as an escape key you can
+## change the escape key by uncommenting the line below which uses C-[
+#escape "^[^["
+
+## Display useful information about the remote system in caption line
+caption always "%{=b dy}%D, %d. %M '%y %{=b dw}%c:%s %{=b dy}{ %{= dg}${USER}@%{= dr}%H %{=b dy}} %{=b d2}%l %{=b dy}%u %{=b dy} %={ %?%{= dc}%-Lw%?%{+b dy}(%{-b r}%n:%t%{+b dy})%?(%u)%?%{-dc}%?%{= dc}%+Lw%? %{=b dy}}"

@@ -8,6 +8,9 @@
 # Partition:
 #SBATCH --partition=savio
 #
+# QOS:
+#SBATCH --partition=savio_debug
+#
 # Wall clock limit:
 #SBATCH --time=0:0:30
 #

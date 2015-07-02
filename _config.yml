@@ -1,0 +1,27 @@
+#
+# Jekyll configuration file for the GitHub Pages site
+# for Berkeley Research Computing draft documentation
+#
+# With thanks to Dan Rademacher (https://github.com/danrademacher/)
+# for the following example file, on which this one is based:
+# https://github.com/danrademacher/rimfireweb/blob/gh-pages/_config.yml
+#
+
+#
+# Name of your site (this will show up at the top of your page and in
+# the RSS feed)
+#
+name: Berkeley Research Computing: Draft Documentation
+
+#
+# Base URL to be added to relative links, per Matt Swensen's
+# elegant discovery/workaround (https://github.com/mjswensen):
+# https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908
+#
+baseurl: /brc-draft-documentation
+
+#
+# The URL of your actual domain. This will be used to make absolute links
+# in the RSS feed.
+#
+url: http://ucberkeley.github.io/brc-draft-documentation

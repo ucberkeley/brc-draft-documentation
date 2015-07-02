@@ -11,7 +11,7 @@
 # Name of your site (this will show up at the top of your page and in
 # the RSS feed)
 #
-name: Berkeley Research Computing: Draft Documentation
+name: "Berkeley Research Computing: Draft Documentation"
 
 #
 # Base URL to be added to relative links, per Matt Swensen's

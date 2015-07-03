@@ -4,8 +4,17 @@ layout: default
 
 ### Cloud Computing Support
 
+The Berkeley Research Computing (BRC) Cloud Computing Support program offers consulting assistance, documentation, and tools to help faculty and other campus researchers obtain access to and effectively use cloud computing resources.
 
-#### Pages we might need / questions that need answering:
+(Cloud computing is the use of computational resources, storage, and applications from commercial cloud providers like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform, and from national computational centers like NERSC and XSEDE.)
+
+BRC Cloud Computing Support can help you:
+
+* Determine if the cloud is a good fit for your computational requirements.
+* Gain access to cloud computing resources, both for research and research-related instruction.
+* Plan for and manage costs of cloud computing.
+
+#### Some potential questions that need answering:
 
 * What is cloud computing support?
 * What cloud platforms are covered? (Initially AWS-focused, but plan to support platforms pertinent to campus researchers. Likely will include Microsoft Azure, Google Cloud Platform, XSEDE, and NERSC.)

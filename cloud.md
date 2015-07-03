@@ -20,7 +20,12 @@ layout: default
   * Integrating local campus infrastructure directly with public cloud resources.
 * I know about / am interested in the cloud. How can I work with you, as a consultant or campus partner?
 
-#### From the one-pager:
+* Which cloud platform is most suitable for my needs? (I.e. in advance of or in lieu of consulting, what are some of the major characteristics of each platform that might help me narrow down my investigation?)
+* How do I get started with cloud platform _x_?
+* How can I apply for a vendor grant (or provider allocation, etc.) to use cloud platform _x_?
+* How do I pay for my use of cloud platform _x_?
+
+#### From the one-pager ...
 
 ##### Engage with researchers to match requirements with appropriate cloud resources
 

@@ -57,7 +57,9 @@ body {
 }
 
 a {
-  color: #d5000d;
+  /* Changed by ADR 2015-07-02 */
+  /* color: #d5000d; */
+  color: #3b5998;
 }
 a:hover {
   color: #c5000c;

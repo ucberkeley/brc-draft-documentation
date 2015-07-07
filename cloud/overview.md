@@ -7,7 +7,7 @@ layout: default
 ## Quick takeaways
 
 * [One-page description (PDF)](https://ucberkeley.github.io/brc-draft-documentation/cloud/BRC-CloudConsultingOnePager.pdf)
-* Video introduction
+* [Video introduction](https://www.youtube.com/watch?v=71MJSFDPHb0&t=5m57s)
 
 ## About the Cloud Consulting services
 

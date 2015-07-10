@@ -23,7 +23,7 @@ Berkeley Research Computing (BRC)'s Cloud Computing support can discuss your req
   * NERSC
   * And others ...
 
-## Planning and Funding
+## Plan and Fund
 
 - some info about cloud vendor subsidies
 - help with grant writing

@@ -2,20 +2,6 @@
 layout: default
 ---
 
-### Cloud Computing Support
-
-The Berkeley Research Computing (BRC) Cloud Computing Support program offers consulting assistance, documentation, and tools to help faculty and other campus researchers obtain access to and effectively use cloud computing resources.
-
-(Cloud computing is the use of computational resources, storage, and applications from commercial cloud providers like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform, and from national computational centers like NERSC and XSEDE.)
-
-BRC Cloud Computing Support can help you:
-
-* Determine if the cloud is a good fit for your computational requirements.
-* Gain access to cloud computing resources, both for research and research-related instruction.
-* Plan for and manage costs of cloud computing.
-
-(Note that these three bullet points aren't a 1:1 match for the three categories in the one-pager, so we may want to think about whether some convergence here might be useful ...)
-
 #### Some potential questions that need answering:
 
 Some questions that we might be asked, that might help us suss out what sub-pages will initially be required:
@@ -40,28 +26,3 @@ Some questions that we might be asked, that might help us suss out what sub-page
 * How can I apply for a vendor grant (or provider allocation, etc.) to use cloud platform _x_?
 * How do I pay for my use of cloud platform _x_?
 
-#### From the one-pager ...
-
-The following categories and their individual bullet points may suggest some potential sub-pages, as well ...
-
-##### Engage with researchers to match requirements with appropriate cloud resources
-
-* Review computing and data requirements for research uses to identify where those uses translate well to cloud resources.
-* Assist researchers in identifying the set of cloud services that efficiently and effectively address their computational and storage requirements.
-* Simplify the use of commonly used software stacks across multiple cloud platforms.
-* Provide documentation, training, guidance, and referrals for translating commonly-encountered computing requirements into patterns suited for efficient and cost-effective use of cloud resources for instruction and research.
-* Help researchers working with sensitive data identify whether and how they can appropriately work with that data on cloud resources.
-
-##### Facilitate access to cloud resources
-
-* Assist researchers in obtaining provider grants.
-* Provide support for incorporating cloud computing resource costs into funding proposals.
-* Publish documentation and provide consulting to help researchers benefit from campus contracts and guidelines.
-* Assist researchers to manage costs and/or transfer times for moving data to and from cloud resources.
-
-##### Automate cloud provisioning
-
-* Provide automated provisioning scripts, ‘best practices’ examples, documentation, and consulting to support integrations with cloud providers that address specific types of campus research and instruction.
-* Allow PIs to conveniently manage, and delegate the management of, cloud provider accounts to postdocs, graduate student researchers (GSRs), or others.
-* Allow instructors to conveniently manage, and delegate the management of, cloud provider accounts to graduate student instructors (GSIs) or others.
-* Help PIs and instructors to control and gain clearer insights into cloud costs via billing alerts, mechanisms to limit unintended overages, and best practices documentation.

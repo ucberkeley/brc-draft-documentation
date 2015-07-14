@@ -10,11 +10,9 @@ These links to sub-pages will appear in a navigation menu in the left sidebar:
 
 ---
 
-### Cloud Computing Support
+# Cloud Computing Support
 
 The Berkeley Research Computing (BRC) Cloud Computing Support program offers consulting assistance, documentation, and tools to help faculty and other campus researchers obtain access to and effectively use cloud computing resources.
-
-(Cloud computing is the use of computational resources, storage, and applications from commercial cloud providers like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform, and from national computational centers like NERSC and XSEDE.)
 
 BRC Cloud Computing Support can help you:
 
@@ -22,5 +20,12 @@ BRC Cloud Computing Support can help you:
 * Plan for and manage costs of cloud computing.
 * Gain access to cloud computing resources, both for research and research-related instruction.
 
-*(Note that these three bullet points, while aligned with the VCRO letter, aren't a 1:1 match for the three categories in the one-pager, so we may want to think about whether some convergence here might be useful ...)*
+## Schedule time at no cost to you
 
+We welcome Berkeley faculty, staff, postdocs, and grad students at all levels of expertise to schedule time with our consultants, even at the very earliest stages of your research, for any size computational requirements you may have. Our standard consulting services are free of charge.
+
+Please include the following in your request: a brief description of your project, data and what stage you are at in the research process.
+
+[insert link to Google form or email address here]
+
+You may also wish to familiarze yourself with an [overview](https://ucberkeley.github.io/brc-draft-documentation/cloud/overview.html) of what our consulting service provides.

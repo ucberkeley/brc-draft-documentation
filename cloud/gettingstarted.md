@@ -2,6 +2,8 @@
 layout: default
 ---
 
+*Note: per Steve, Aaron, and Aron discussion 2015-07-14, this page is currently only a placeholder for a contemplated resources page, linking to informational and how-to documents.*
+
 # Getting Started
 
 ## Match Requirements to Resources

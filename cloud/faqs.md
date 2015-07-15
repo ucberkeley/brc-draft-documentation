@@ -4,22 +4,22 @@ layout: default
 
 ## Frequently Anticipated Questions
 
-* When will cloud computing support become available?
+* **When will cloud computing support become available?**
   Cloud computing support is available today. The program which provides this support is
   scheduled to be formally announced to the UC Berkeley campus in August 2015.
 
-* What types of help can I get?
+* **What types of help can I get?**
   See the [Overview](https://ucberkeley.github.io/brc-draft-documentation/cloud/overview.html) for a detailed list
   of the types of help available.
 
-* Who is eligible for cloud computing support?
+* **Who is eligible for cloud computing support?**
   UC Berkeley faculty and other campus-affiliated researchers (e.g. research associates, adjuncts,
   postdocs, grad students, and research staff).
 
-* What does cloud computing support cost?
+* **What does cloud computing support cost?**
   Consulting is free of charge. (Availability of no-cost consulting time may be limited.)
   
-* What cloud platform(s) should I use.
+* **What cloud platform(s) should I use.**
   Cloud Computing Support consultants can help you determine if your research computing
   use case is suitable for cloud computing, as well as which cloud platform(s) you might consider.
   (Self-help documentation for this and other common questions is planned to be added to this website over time.)

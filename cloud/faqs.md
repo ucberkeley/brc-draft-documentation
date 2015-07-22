@@ -22,7 +22,7 @@ layout: default
 * **What cloud platform(s) should I use?**
   Cloud Computing Support consultants can help you determine if cloud computing is suited to your your research computing
   requirements, as introduce you to the available options and assist in the process of selecting a cloud platform(s).
-  (Self-help documentation for this and other common questions is planned to be added to this website over time.)
+  (Self-paced documentation for this and other common questions is planned to be added to this website over time.)
   
 ### Get started!
 

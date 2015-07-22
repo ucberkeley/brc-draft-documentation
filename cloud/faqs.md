@@ -5,7 +5,7 @@ layout: default
 ## Frequently Anticipated Questions
 
 * **When will cloud computing support become available?**
-  Cloud computing support is available today. The program which provides this support is
+  Cloud computing support is available today. The service which provides this support is
   scheduled to be formally announced to the UC Berkeley campus in August 2015.
 
 * **What types of help can I get?**
@@ -20,8 +20,8 @@ layout: default
   Consulting is free of charge. (Availability of no-cost consulting time may be limited.)
   
 * **What cloud platform(s) should I use?**
-  Cloud Computing Support consultants can help you determine if cloud computing is suited to your your research computing
-  requirements, as introduce you to the available options and assist in the process of selecting a cloud platform(s).
+  Cloud Computing Support consultants can help you determine if cloud computing is suited to your research computing
+  requirements, as well as introduce you to the available options and assist in selecting a cloud platform(s).
   (Self-paced documentation for this and other common questions is planned to be added to this website over time.)
   
 ### Get started!

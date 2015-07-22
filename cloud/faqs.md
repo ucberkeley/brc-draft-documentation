@@ -19,9 +19,9 @@ layout: default
 * **What does cloud computing support cost?**
   Consulting is free of charge. (Availability of no-cost consulting time may be limited.)
   
-* **What cloud platform(s) should I use.**
-  Cloud Computing Support consultants can help you determine if your research computing
-  use case is suitable for cloud computing, as well as which cloud platform(s) you might consider.
+* **What cloud platform(s) should I use?**
+  Cloud Computing Support consultants can help you determine if cloud computing is suited to your your research computing
+  requirements, as introduce you to the available options and assist in the process of selecting a cloud platform(s).
   (Self-help documentation for this and other common questions is planned to be added to this website over time.)
   
 ### Get started!

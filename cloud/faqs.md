@@ -9,7 +9,7 @@ layout: default
   scheduled to be formally announced to the UC Berkeley campus in August 2015.
 
 * **What types of help can I get?**
-  See the [Overview](https://ucberkeley.github.io/brc-draft-documentation/cloud/overview.html) for a detailed list
+  See the [Overview](/services/cloud-computing-support/overview-cloud-computing-support) for a detailed list
   of the types of help available.
 
 * **Who is eligible for cloud computing support?**

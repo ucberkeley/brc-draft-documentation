@@ -43,7 +43,7 @@ Here's what you can expect from the BRC Cloud consultants:
 
 We welcome Berkeley faculty, staff, postdocs, and grad students at all levels of expertise to schedule time with our consultants, even at the very earliest stages of your research, for any size computational requirements you may have. Our standard consulting services are free of charge.
 
-Please include the following in your request: a brief description of your project, a concise overview of the software and data you're using, and a summary of what stage you are at in your research process.
+Please email us at the following address, and include the following in your request: a brief description of your project, a concise overview of the software and data you're using, and a summary of what stage you are at in your research process.
 
-[insert email address here]
+[research-it@berkeley.edu](mailto:research-it@berkeley.edu)
 

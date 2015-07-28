@@ -28,4 +28,4 @@ Please email us at the following address, and include the following in your requ
 
 [research-it@berkeley.edu](mailto:research-it@berkeley.edu)
 
-You may also wish to familiarize yourself with an [overview](https://ucberkeley.github.io/brc-draft-documentation/cloud/overview.html) of what this consulting service provides.
+You may also wish to familiarize yourself with an [overview](/services/cloud-computing-support/overview-cloud-computing-support) of what this consulting service provides.

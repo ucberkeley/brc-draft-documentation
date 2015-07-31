@@ -23,6 +23,10 @@ layout: default
   Cloud Computing Support consultants can help you determine if cloud computing is suited to your research computing
   requirements, as well as introduce you to the available options and assist in selecting a cloud platform(s).
   (Self-paced documentation for this and other common questions is planned to be added to this website over time.)
+
+* **How should I describe BRC's Cloud Computing support in a grant proposal, or in faculty recruitment or retention letters?**
+  Please contact us at [research-it@berkeley.edu](mailto:research-it@berkeley.edu) for language describing
+  BRC's Cloud Computing Support appropriate for inclusion in grant proposals or faculty recruitment/retention letters.
   
 ### Get started!
 

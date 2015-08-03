@@ -25,8 +25,10 @@ layout: default
   (Self-paced documentation for this and other common questions is planned to be added to this website over time.)
 
 * **How should I describe BRC's Cloud Computing support in a grant proposal, or in faculty recruitment or retention letters?**
-  Please contact us at [research-it@berkeley.edu](mailto:research-it@berkeley.edu) for language describing
-  BRC's Cloud Computing Support appropriate for inclusion in grant proposals or faculty recruitment/retention letters.
+  You can use this language: "UC Berkeley's Research IT consultants will advise on and support (faculty member)
+  and their research team in identifying computational services appropriate to their research from one or more
+  cloud service providers. They will also offer support in procuring and using cloud services, to the extent
+  described at http://research-it.berkeley.edu/services/cloud-computing-support/overview-cloud-computing-support"
   
 ### Get started!
 

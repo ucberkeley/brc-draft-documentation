@@ -4,10 +4,10 @@ layout: default
 
 # Overview
 
-## Quick takeaways
+## Video introduction
 
-* One-page description (PDF) (TBA)
-* [Video introduction](https://www.youtube.com/watch?v=71MJSFDPHb0&t=5m57s)
+<iframe width="373" height="210" src="http://www.youtube.com/embed/71MJSFDPHb0?rel=0&amp;start=357&amp;end=430&amp;autoplay=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+(Research IT's Patrick Schmitz summarizes Cloud Computing Support, from the [Berkeley Research Computing Town Hall meeting on May 28, 2015](http://research-it.berkeley.edu/blog/15/06/12/town-hall-launch-brc-faculty-computing-allowance).)
 
 ## About the Cloud Consulting services
 

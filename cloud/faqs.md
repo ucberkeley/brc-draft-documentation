@@ -25,9 +25,10 @@ layout: default
   (Self-paced documentation for this and other common questions is planned to be added to this website over time.)
 
 * **Can I pay for cloud computing by charging a UC Berkeley campus account?**
-  When using Amazon Web Services, it's possible to invoice a campus account. This process is evolving; please
-  contact a Cloud Computing Support consultant for assistance with this. We are working with campus partners
-  to make it possible to use campus accounts with Microsoft Azure and Google Cloud Platform, as well.
+  When setting up payment for Amazon Web Services, you can specify that a campus account should be invoiced.
+  This process is evolving; please contact a Cloud Computing Support consultant for assistance with this.
+  We are working with campus partners to make it possible to use campus accounts with Microsoft Azure
+  and Google Cloud Platform, as well.
 
 * **How should I describe BRC's Cloud Computing support in a grant proposal, or in faculty recruitment or retention letters?**
   You can use this language: "UC Berkeley's Research IT consultants will advise on and support (faculty member)
